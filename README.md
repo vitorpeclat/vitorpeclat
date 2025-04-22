@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Apaixonado por tecnologia, desenvolvimento e aprendizado contínuo<br>🚀 Buscando oportunidades para entrar no mercado de TI e crescer como desenvolvedor<br>🔧 Experiência com Java, CSS, PHP, Android Studio, SQL e versionamento com Git<br>📚 Sempre estudando, praticando e desenvolvendo novos projetos</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Apaixonado por tecnologia, desenvolvimento e aprendizado contínuo<br>🚀 Buscando oportunidades para entrar no mercado de TI e crescer como desenvolvedor<br>🔧 Experiência com Java, CSS, PHP, Android Studio, mySQL e versionamento com Git<br>📚 Sempre estudando, praticando e desenvolvendo novos projetos</p>
 
 ###
 
