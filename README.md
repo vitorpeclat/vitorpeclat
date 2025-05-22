@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Apaixonado por tecnologia, desenvolvimento e aprendizado contínuo<br>🚀 Buscando oportunidades para entrar no mercado de TI e crescer como desenvolvedor JAVA<br>🔧 Atualmente estudando bibliotecas Java<br>📚 Sempre estudando, praticando e desenvolvendo novos projetos</p>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>💻 Apaixonado por fotografia, aprendizado contínuo e situações imprevistas<br>🚀 Buscando oportunidades para entrar no mercado de TI e crescer como desenvolvedor JAVA<br>🔧 Atualmente estudando bibliotecas Java<br>📚 Sempre estudando, praticando e desenvolvendo novos projetos</p>
 
 ###
 
